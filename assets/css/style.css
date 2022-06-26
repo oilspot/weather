@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: black;
+    background: linear-gradient(#eaedfd, #c3e0f1);
+    background-attachment: fixed;
+    height: 100%;
+  }
+  
+  main {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 1.3em;
+    font-weight: bold;
+    
+  }
+  
+  .meteo {
+    margin-bottom: 4em;
+  }
+  
+  .icon {
+    max-width: 20%;
+  }
+  
+  .location {
+    font-size: 2em;
+  }
+  
+  .temperature {
+    font-size: 3em;
+  }
+  
+  
